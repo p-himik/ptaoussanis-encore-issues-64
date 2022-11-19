@@ -1,0 +1,2 @@
+{:deps {org.clojure/clojurescript {:mvn/version "1.11.60"}
+        com.taoensso/encore       {:mvn/version "3.36.0"}}}
